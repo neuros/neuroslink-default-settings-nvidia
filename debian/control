@@ -1,0 +1,17 @@
+Source: neuroslink-default-settings-nvidia
+Section: x11
+Priority: optional
+Maintainer: Tom Bruno <tbruno@neurostechnology.com>
+Build-Depends: debhelper (>= 5.0.0), cdbs
+Standards-Version: 3.7.3
+
+Package: neuroslink-default-settings-nvidia
+Architecture: all 
+Depends:
+Recommends: gdm
+Description: default settings for Neuros Link 
+ Various preconfigured items for Neuros Link.
+ This package will:
+  * Set GDM to auto login to neurostv user
+  * Install default ati configuration
+  * Used for Generation 1 Neuros Link with Nvidia hardware
