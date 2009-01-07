@@ -1,4 +1,4 @@
-neuroslink-default-settings-ati (1.0) intrepid; urgency=low
+neuroslink-default-settings-nvidia (1.0) intrepid; urgency=low
 
   * Package split into nvidia and ati versions
 
