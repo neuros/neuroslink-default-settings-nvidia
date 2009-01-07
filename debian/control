@@ -9,6 +9,7 @@ Package: neuroslink-default-settings-nvidia
 Architecture: all 
 Depends:
 Recommends: gdm
+Conflicts: neuroslink-default-settings-open, neuroslink-default-settings-ati
 Description: default settings for Neuros Link 
  Various preconfigured items for Neuros Link.
  This package will:
