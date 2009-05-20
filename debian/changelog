@@ -1,3 +1,10 @@
+neuroslink-default-settings-nvidia (1.1) intrepid; urgency=low
+
+  * Remove firefox from default statup
+  * Add xbmc to autostart at login
+
+ -- Tom Bruno <tbruno@neurostechnology.com>  Tue, 19 May 2009 19:47:52 -0500
+
 neuroslink-default-settings-nvidia (1.0) intrepid; urgency=low
 
   * Package split into nvidia and ati versions
